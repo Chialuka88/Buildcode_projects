@@ -20,13 +20,13 @@
 
 //Skipping an iteration
 
-let floors = 28;
+// let floors = 28;
 
-for (let i = 1; i <= floors; i++){
-    if (i == 13) {
-        continue;
-    }
-    document.write("At floor: " + i + "<br>");
-}
+// for (let i = 1; i <= floors; i++){
+//     if (i == 13) {
+//         continue;
+//     }
+//     document.write("At floor: " + i + "<br>");
+// }
 
-    
+    let end =
