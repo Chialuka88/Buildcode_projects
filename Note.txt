@@ -1,0 +1,8 @@
+What is a function?
+==> A function is nothing more than a wrapper for some code.
+== A function groups statement together
+==> A function makes your code reusable
+
+The function call is typically the name of the function we want to call(aka invoke)
+followed again by the parentheses. Without our function call, the function we created
+doesn't do anything.It is the function call that wakes our function up and makes it do things.
